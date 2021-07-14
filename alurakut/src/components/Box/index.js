@@ -2,7 +2,8 @@
 import styled from 'styled-components';
 
 const Box = styled.div`
-  background: #FFFFFF;
+  color: #000;
+  background: linear-gradient(45deg, #fff, #22ccff);
   border-radius: 8px;
   padding: 16px;
 

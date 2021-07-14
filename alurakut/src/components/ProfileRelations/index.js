@@ -6,8 +6,10 @@ const ProfileRelations = styled.div`
     grid-template-columns: 1fr 1fr ;
     grid-template-rows: 1fr 1fr ;
     border-radius: 8px;
-    background-color: #fff;
+    background: linear-gradient(45deg, #fff, #22ccff);
+    //background: linear-gradient(45deg, #9977ff, #22ccff, #00ff99);
     padding: 20px; 
 `;
+//#9977ff #22ccff #00ff99
 
 export default ProfileRelations;

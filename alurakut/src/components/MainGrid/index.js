@@ -9,6 +9,7 @@ const MainGrid = styled.main`
   padding: 16px;
 
   @media(min-width: 860px){
+    height: 100vh;
     grid-template-areas: 'profileArea welcomeArea profileRelationsArea' ;
     grid-template-columns: 160px 1fr 312px;
   }

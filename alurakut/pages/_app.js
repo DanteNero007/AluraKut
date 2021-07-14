@@ -7,9 +7,9 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
-  body{
+  body{ 
     font-family: sans-serif;
-    background-color: #d9e6f6;
+    background: linear-gradient(45deg, #000, #22ccff);
   } 
   #__next{
     display: flex;
