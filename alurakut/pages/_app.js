@@ -9,13 +9,13 @@ const GlobalStyle = createGlobalStyle`
   }
   body{ 
     font-family: sans-serif;
-    background: linear-gradient(45deg, #000, #22ccff);
+    background: no-repeat linear-gradient(45deg, #000, #22ccff);
   } 
   #__next{
     display: flex;
     min-height: 10vh;
     flex-direction: column;
-  }
+  } 
   img{
     max-width: 100%;
     height: auto;
